@@ -14,5 +14,5 @@ Este é um exemplo de aplicação preparada para conversar com um LLM local (um 
 - Testado com Python 3.10.12
 - Sugiro a criação de um ambiente virtual Python antes te baixar as dependências (que estão no arquivo requirements.txt, na raiz do projeto). O volume de dependências baixadas é grande e está evoluindo com muita rapidez, então tê-las na biblioteca padrão do seu Python não é uma estratégia muito boa.
 
-Baseado no artigo que pode ser encontrado no link abaixo:
+Baseado no artigo que pode ser encontrado no link abaixo:<br />
 https://duyhuynh.substack.com/p/build-your-own-rag-and-run-it-locally
