@@ -13,6 +13,5 @@ Outros links na apresentação:
 - Hugging face: https://huggingface.co/
 - Ollama: https://ollama.com/
 - LM Studio: https://lmstudio.ai/
-- Chat with RTX: https://www.nvidia.com/pt-br/ai-on-rtx/chat-with-rtx-generative-ai/
-- 
+- Chat with RTX: https://www.nvidia.com/pt-br/ai-on-rtx/chat-with-rtx-generative-ai/ 
 
