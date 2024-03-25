@@ -9,10 +9,10 @@ Este é um exemplo de aplicação preparada para conversar com um LLM local (um 
 - Sugiro a criação de um ambiente virtual Python antes te baixar as dependências (que estão no arquivo requirements.txt, na raiz do projeto). O volume de dependências baixadas é grande e está evoluindo com muita rapidez, então tê-las na biblioteca padrão do seu Python não é uma estratégia muito boa.
 
 Outros links na apresentação:
-
-Meu LinkedIn: https://www.linkedin.com/in/rui-ml-rodrigues/
-Hugging face: https://huggingface.co/
-Ollama: https://ollama.com/
-LM Studio: https://lmstudio.ai/
-https://www.nvidia.com/pt-br/ai-on-rtx/chat-with-rtx-generative-ai/
+- Meu LinkedIn: https://www.linkedin.com/in/rui-ml-rodrigues/
+- Hugging face: https://huggingface.co/
+- Ollama: https://ollama.com/
+- LM Studio: https://lmstudio.ai/
+- Chat with RTX: https://www.nvidia.com/pt-br/ai-on-rtx/chat-with-rtx-generative-ai/
+- 
 
