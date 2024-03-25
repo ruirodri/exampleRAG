@@ -1,4 +1,5 @@
-https://github.com/ruirodri/exampleRAG/assets/19194931/6269fd44-38f3-4321-a87a-ee04e8c984f2
+<img src="https://github.com/ruirodri/exampleRAG/assets/19194931/6269fd44-38f3-4321-a87a-ee04e8c984f2" alt="logo" width="300"/>
+
 # Código e Links na apresentação do Rui Rodrigues
 ## TDC Summit São Paulo - 03/2024
 
