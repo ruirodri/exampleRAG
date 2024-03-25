@@ -1,4 +1,5 @@
-# Código e Links na apresentação do Rui Rodrigues no TDC Summit - 03/2024
+# Código e Links na apresentação do Rui Rodrigues
+# TDC Summit São Paulo - 03/2024
 
 - Meu LinkedIn: https://www.linkedin.com/in/rui-ml-rodrigues/
 - Hugging face: https://huggingface.co/
